@@ -1,0 +1,18 @@
+{
+  "name": "@porcupine-cloud/web-client",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "frontend:dev": "next dev",
+    "frontend:build": "next build",
+    "frontend:start": "next start"
+  },
+  "dependencies": {
+    "next": "15.5.6",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "24.8.1"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "porcupine-cloud",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "frontend:dev": "turbo run frontend:dev"
+  },
+  "packageManager": "pnpm@9.15.1",
+  "engines": {
+    "node": "^22"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.2",
+    "turbo": "2.5.8",
+    "typescript": "5.7.3"
+  }
+}

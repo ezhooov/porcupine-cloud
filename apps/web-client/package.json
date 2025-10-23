@@ -8,11 +8,15 @@
     "frontend:start": "next start"
   },
   "dependencies": {
+    "@mdx-js/loader": "^3.1.1",
+    "@mdx-js/react": "^3.1.1",
+    "@next/mdx": "^16.0.0",
     "next": "15.5.6",
     "react": "19.2.0",
     "react-dom": "19.2.0"
   },
   "devDependencies": {
-    "@types/node": "24.8.1"
+    "@types/node": "24.8.1",
+    "@types/mdx": "^2.0.13"
   }
 }
